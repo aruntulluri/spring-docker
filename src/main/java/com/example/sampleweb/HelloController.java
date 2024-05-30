@@ -15,7 +15,7 @@ public class HelloController {
 	@GetMapping
 	public String service() {
 
-		return "Sample Web App-1";
+		return "Sample Web App-10";
 	}
 
 }
